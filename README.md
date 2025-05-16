@@ -1,1 +1,6 @@
-# cloud_file_platform
+### Discord Bot
+## Server
+Turnitin automation
+## Role
+assistant
+## Usage
