@@ -1,4 +1,4 @@
-### Discord Bot
+# Discord Bot
 ## Server
 Turnitin automation
 ## Role
